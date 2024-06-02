@@ -12,5 +12,6 @@
 ### Message Admin: Users can send messages to the admin.
 
 
-### home page
-![Screenshot 2023-12-11 165419](https://github.com/Divy2003/ecommarce_web/assets/101808420/00d23d75-79cd-4f58-b769-86d8c641599a)
+### admin page
+![image](https://github.com/Divy2003/ecommerce_web-in-java/assets/101808420/821e7f23-2b96-4096-9a02-2efed926c8e1)
+
