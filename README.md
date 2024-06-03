@@ -6,7 +6,7 @@
 ### Add Product: Admin can add new products to the store.
 ### Edit Product: Admin can update the details of existing products, including changing the product image.
 ### View User Messages: Admin can view messages sent by users.
-### Cancle and Recived Order: Admin can see howmany product cancle and delevered.
+### View Canceled and Delivered Orders: Admin can see the number of products that have been canceled and delivered.
 # User Features:
 ### Add to Cart: Users can add products to their shopping cart.
 ### Manage Personal Details: Users can update their personal details.
