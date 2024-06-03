@@ -11,6 +11,8 @@
 ### Add to Cart: Users can add products to their shopping cart.
 ### Manage Personal Details: Users can update their personal details.
 ### Message Admin: Users can send messages to the admin.
+### Generate Bill: Users can generate and view their bill for the items in their cart.
+### Order History: Users can view their past orders and order history.
 
 
 ## admin page
